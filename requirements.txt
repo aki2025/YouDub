@@ -1,0 +1,4 @@
+pytube
+git+https://github.com/openai/whisper.git
+transformers
+coqui-tts# Add Python dependencies here 
